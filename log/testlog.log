@@ -1,0 +1,577 @@
+2016-06-28 01:42:43,646 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 01:43:56,525 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 13:28:54,550 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 13:28:54,567 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 13:28:54,568 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 13:30:09,585 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 13:30:09,587 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 13:30:09,588 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 13:31:05,953 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 13:31:05,955 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-28 13:31:05,958 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-28 13:44:11,791 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 13:44:11,807 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 13:44:38,205 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 13:51:28,600 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 13:51:28,615 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 13:51:53,687 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 14:09:13,709 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 14:09:13,724 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 14:09:13,725 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 14:12:21,529 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 14:12:21,540 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 14:12:21,541 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 14:17:39,448 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 14:17:39,459 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 14:17:39,459 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 14:26:40,787 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 14:26:40,801 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 14:26:40,802 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 14:32:35,318 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 14:32:35,331 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 14:32:35,332 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 14:39:03,167 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 14:39:03,180 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 14:39:03,181 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 14:42:15,029 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 14:42:15,040 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 14:42:15,041 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 14:43:49,798 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 14:43:49,810 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 14:43:49,811 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 14:50:23,298 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 14:50:23,313 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 14:50:23,314 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 14:51:13,612 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 14:51:13,614 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 14:51:13,639 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 14:51:13,641 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 14:51:13,642 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 14:52:10,083 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 14:52:10,085 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 14:52:10,109 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 14:52:10,111 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-28 14:52:10,112 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-28 14:53:06,254 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 14:53:06,255 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 14:59:55,002 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 14:59:55,013 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 14:59:55,014 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 15:01:03,794 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 15:01:03,796 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 15:02:47,223 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 15:02:47,236 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 15:02:47,237 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 15:03:37,448 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 15:03:37,450 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 15:07:04,112 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 15:07:04,125 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 15:07:09,733 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 15:07:59,973 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 15:07:59,974 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 15:09:45,085 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 15:09:45,096 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 15:09:50,211 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 15:12:39,821 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 15:12:39,833 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 15:12:45,493 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 15:15:09,469 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 15:15:09,482 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 15:15:29,952 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 15:15:29,954 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 15:15:29,955 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 15:15:50,402 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 15:15:50,404 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-28 15:15:50,405 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-28 15:34:15,355 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 15:34:15,374 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 15:34:35,905 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 15:34:35,906 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 15:34:35,908 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 15:34:56,766 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 15:34:56,767 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-28 15:34:56,768 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-28 15:49:09,588 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 15:49:09,598 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 15:49:09,599 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 15:50:24,947 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 15:50:24,950 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 15:50:24,951 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 15:51:22,892 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 15:51:22,894 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-28 15:51:22,895 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-28 16:06:12,247 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 16:06:12,260 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 16:06:12,260 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 16:07:23,527 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 16:07:23,529 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 16:09:04,422 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 16:09:04,433 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 16:09:04,434 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 16:10:15,992 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 16:10:15,993 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 16:11:48,776 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 16:11:48,788 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 16:11:48,789 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 16:13:01,786 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 16:13:01,787 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 16:14:41,500 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 16:14:41,510 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 16:14:41,511 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 16:15:31,736 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 16:15:31,738 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 16:19:39,128 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 16:19:39,139 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 16:19:39,140 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 16:20:29,377 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 16:20:29,379 - devpinoyLogger -INFO - *************************************TEST FAILED**********************************************
+2016-06-28 16:21:53,102 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 16:21:53,112 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 16:21:53,112 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 16:27:35,797 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 16:27:35,807 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 16:27:35,808 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 16:29:10,521 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 16:29:10,530 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 16:29:10,531 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 16:34:55,896 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 16:34:55,913 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 16:34:55,914 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 16:47:56,325 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 16:47:56,337 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 16:47:56,339 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 16:49:10,905 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 16:49:10,907 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 16:49:10,908 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 16:53:19,652 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 16:53:19,668 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 16:53:19,669 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 16:54:33,054 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 16:54:33,055 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 16:54:33,056 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:01:51,767 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:01:51,779 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 17:01:51,780 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 17:03:04,549 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:03:04,551 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:03:04,552 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:05:38,070 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:05:38,081 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 17:05:38,082 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 17:06:51,646 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:06:51,648 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:06:51,649 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:10:11,243 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:10:11,256 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:10:11,257 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:12:11,229 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:12:11,239 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:12:11,239 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:14:26,692 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:14:26,705 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:14:26,706 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:16:48,472 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:16:48,486 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:16:48,487 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:18:27,490 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:18:27,506 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:18:27,507 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:20:25,552 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:20:25,564 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:20:25,565 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:26:35,842 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:26:35,853 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:26:35,853 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:28:14,783 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:28:14,797 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:28:14,798 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:30:03,763 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:30:03,783 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:30:03,784 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:33:19,354 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:33:19,366 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:33:19,367 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:35:25,142 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:35:25,151 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:35:25,152 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:37:25,740 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:37:25,750 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-28 17:37:25,750 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-28 17:39:35,107 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:39:35,121 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-28 17:39:35,123 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-28 17:41:57,378 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:41:57,389 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-28 17:41:57,390 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-28 17:45:40,064 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:45:40,078 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 17:45:40,079 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 17:46:03,582 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:46:03,585 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:46:03,587 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:46:11,108 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:46:11,109 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-28 17:46:11,110 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-28 17:48:51,699 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:48:51,711 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 17:48:51,712 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 17:50:06,696 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:50:06,709 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:50:06,711 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 17:51:06,341 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:51:06,342 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-28 17:51:06,343 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-28 17:53:59,314 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:53:59,326 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 17:53:59,327 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 17:55:12,355 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:55:12,357 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 17:55:33,702 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 17:55:33,705 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-28 17:55:33,706 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-28 18:06:28,370 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:06:28,398 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 18:06:28,399 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 18:07:42,121 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:07:42,122 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 18:08:02,765 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:08:02,767 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-28 18:08:02,769 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-28 18:12:58,783 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:12:58,799 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 18:12:58,800 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 18:14:13,359 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:14:13,360 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:14:13,368 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:14:13,392 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:14:13,394 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 18:14:13,395 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 18:15:11,745 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:15:11,747 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:15:11,774 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:15:11,775 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-28 18:15:11,776 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-28 18:16:13,154 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:16:13,155 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:19:54,399 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:19:54,410 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 18:19:54,411 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 18:21:07,478 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:21:07,480 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:21:07,487 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:21:07,515 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:21:07,517 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 18:21:07,518 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 18:21:27,589 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:21:27,591 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-28 18:31:41,624 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:31:41,639 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-28 18:31:41,640 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-28 18:32:51,891 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:32:51,892 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:32:51,901 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:32:51,931 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:32:51,932 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-28 18:32:51,933 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-28 18:33:48,612 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:33:48,614 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:33:48,615 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:33:48,633 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:33:48,634 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-28 18:33:48,635 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-28 18:34:44,981 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:34:44,987 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-28 18:34:44,988 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:23:51,021 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:23:51,078 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-29 16:23:51,079 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-29 16:25:02,914 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:25:02,916 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:25:02,925 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:25:02,970 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:25:02,972 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-29 16:25:02,974 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-29 16:25:59,145 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:25:59,147 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:25:59,148 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:25:59,174 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:25:59,175 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-29 16:25:59,177 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-29 16:26:55,410 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:26:55,415 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:48:13,308 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:48:13,318 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-29 16:48:13,319 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-29 16:49:27,315 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:49:27,316 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:49:27,323 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:49:27,365 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:49:27,367 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-29 16:49:27,368 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-29 16:50:26,771 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:50:26,773 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:50:26,803 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:50:26,804 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-29 16:50:26,805 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-29 16:51:23,258 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 16:51:23,260 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:00:41,107 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:00:41,118 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-29 17:00:41,119 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-29 17:02:15,265 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:02:15,267 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-29 17:02:15,268 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-29 17:02:15,307 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:02:15,309 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-29 17:02:15,309 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-29 17:07:41,379 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:07:41,389 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-29 17:07:41,390 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-29 17:07:59,963 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:07:59,972 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-29 17:07:59,973 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-29 17:08:01,049 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:08:01,053 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-29 17:08:01,054 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-29 17:09:25,271 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:09:25,285 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-29 17:09:25,286 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-29 17:10:54,081 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:10:54,083 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-29 17:10:54,084 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-29 17:10:54,131 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:10:54,132 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-29 17:10:54,133 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-29 17:13:04,908 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:13:04,921 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-29 17:13:04,922 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-29 17:14:35,468 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:14:35,470 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-29 17:14:35,472 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-29 17:14:35,511 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:14:35,512 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-29 17:14:35,513 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-29 17:19:27,071 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:19:27,081 - devpinoyLogger -INFO - Verifying HelpCode
+2016-06-29 17:19:27,081 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-06-29 17:20:37,710 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:20:37,712 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:20:37,722 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:20:37,759 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:20:37,761 - devpinoyLogger -INFO - Verifying Due Amount
+2016-06-29 17:20:37,763 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-06-29 17:21:34,085 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:21:34,086 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:21:34,087 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:21:34,107 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:21:34,108 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-06-29 17:21:34,109 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-06-29 17:22:31,534 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-06-29 17:22:31,539 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 10:40:10,285 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 10:40:10,314 - devpinoyLogger -INFO - Verifying HelpCode
+2016-07-05 10:40:10,314 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-07-05 10:41:21,843 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 10:41:21,843 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 10:41:21,920 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 10:41:22,429 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 10:41:22,444 - devpinoyLogger -INFO - Verifying Due Amount
+2016-07-05 10:41:22,444 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-07-05 10:42:18,781 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 10:42:18,781 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 10:42:18,796 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 10:42:18,812 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 10:42:18,812 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-07-05 10:42:18,812 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-07-05 11:36:37,633 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:36:37,642 - devpinoyLogger -INFO - Verifying HelpCode
+2016-07-05 11:36:37,642 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-07-05 11:37:57,201 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:37:57,201 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:37:57,201 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:37:57,283 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:37:57,283 - devpinoyLogger -INFO - Verifying Due Amount
+2016-07-05 11:37:57,283 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-07-05 11:38:56,519 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:38:56,519 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:38:56,535 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:38:56,551 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:38:56,551 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-07-05 11:38:56,551 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-07-05 11:39:55,991 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:39:55,991 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:46:57,731 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:46:57,745 - devpinoyLogger -INFO - Verifying HelpCode
+2016-07-05 11:46:57,745 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-07-05 11:48:09,268 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:48:09,268 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:48:09,284 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:48:09,316 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:48:09,316 - devpinoyLogger -INFO - Verifying Due Amount
+2016-07-05 11:48:09,316 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-07-05 11:49:06,271 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:49:06,271 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:49:06,271 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:49:06,302 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:49:06,302 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-07-05 11:49:06,302 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-07-05 11:50:03,794 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-07-05 11:50:03,794 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 14:14:23,675 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 14:14:23,701 - devpinoyLogger -INFO - Verifying HelpCode
+2016-08-08 14:14:23,703 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-08-08 14:15:44,591 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 14:15:44,592 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 14:15:44,653 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 14:15:44,704 - devpinoyLogger -INFO - Verifying Due Amount
+2016-08-08 14:15:44,706 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-08-08 14:16:41,165 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 14:16:41,166 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 14:16:41,190 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 14:16:41,191 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-08-08 14:16:41,192 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-08-08 14:17:37,524 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 14:17:37,526 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:42:30,806 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:42:30,819 - devpinoyLogger -INFO - Verifying HelpCode
+2016-08-08 15:42:30,820 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-08-08 15:43:42,554 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:43:42,556 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:43:42,566 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:43:42,600 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:43:42,602 - devpinoyLogger -INFO - Verifying Due Amount
+2016-08-08 15:43:42,604 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-08-08 15:44:38,670 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:44:38,672 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:44:38,705 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:44:38,707 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-08-08 15:44:38,708 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-08-08 15:45:34,996 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:45:34,998 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:48:52,235 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:48:52,255 - devpinoyLogger -INFO - Verifying HelpCode
+2016-08-08 15:48:52,256 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code
+2016-08-08 15:50:04,063 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:50:04,065 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:50:04,073 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:50:04,120 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:50:04,122 - devpinoyLogger -INFO - Verifying Due Amount
+2016-08-08 15:50:04,123 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount
+2016-08-08 15:51:00,234 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:51:00,236 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:51:00,263 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:51:00,264 - devpinoyLogger -INFO - Verifying Data Usage 
+2016-08-08 15:51:00,265 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage
+2016-08-08 15:51:56,351 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:51:56,353 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 15:51:56,358 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 16:02:21,979 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 16:02:21,990 - devpinoyLogger -INFO - Verifying HelpCode
+2016-08-08 16:02:21,991 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code 
+
+2016-08-08 16:03:31,781 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 16:03:31,783 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 16:03:31,792 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 16:03:31,847 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 16:03:31,851 - devpinoyLogger -INFO - Verifying Due Amount
+2016-08-08 16:03:31,852 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount 
+
+2016-08-08 16:04:28,094 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 16:04:28,096 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 16:04:28,132 - devpinoyLogger -INFO - =====================================================Info============================================== 
+
+2016-08-08 16:04:28,133 - devpinoyLogger -INFO - Verifying Data Usage 
+
+2016-08-08 16:04:28,135 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage 
+
+2016-08-08 16:05:24,380 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 16:05:24,382 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 16:05:24,387 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:33:00,823 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:33:00,835 - devpinoyLogger -INFO - Verifying HelpCode
+2016-08-08 17:33:00,836 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code 
+
+2016-08-08 17:34:14,864 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:34:14,865 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:34:14,874 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:34:14,903 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:34:14,905 - devpinoyLogger -INFO - Verifying Due Amount
+2016-08-08 17:34:14,906 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount 
+
+2016-08-08 17:35:11,152 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:35:11,154 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:35:11,207 - devpinoyLogger -INFO - =====================================================Info============================================== 
+
+2016-08-08 17:35:11,208 - devpinoyLogger -INFO - Verifying Data Usage 
+
+2016-08-08 17:35:11,210 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage 
+
+2016-08-08 17:36:07,379 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:36:07,381 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:36:07,385 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:40:34,436 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:40:34,450 - devpinoyLogger -INFO - Verifying HelpCode
+2016-08-08 17:40:34,451 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code 
+
+2016-08-08 17:41:45,659 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:41:45,660 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:41:45,669 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:41:45,700 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:41:45,702 - devpinoyLogger -INFO - Verifying Due Amount
+2016-08-08 17:41:45,703 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount 
+
+2016-08-08 17:42:41,863 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:42:41,864 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:42:41,894 - devpinoyLogger -INFO - =====================================================Info============================================== 
+
+2016-08-08 17:42:41,895 - devpinoyLogger -INFO - Verifying Data Usage 
+
+2016-08-08 17:42:41,897 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage 
+
+2016-08-08 17:43:38,108 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:43:38,109 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:43:38,115 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:45:50,535 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:45:50,546 - devpinoyLogger -INFO - Verifying HelpCode
+2016-08-08 17:45:50,546 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code 
+
+2016-08-08 17:47:06,036 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:47:06,037 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:47:06,046 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:47:06,091 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:47:06,094 - devpinoyLogger -INFO - Verifying Due Amount
+2016-08-08 17:47:06,096 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount 
+
+2016-08-08 17:48:02,600 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:48:02,601 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:48:02,633 - devpinoyLogger -INFO - =====================================================Info============================================== 
+
+2016-08-08 17:48:02,634 - devpinoyLogger -INFO - Verifying Data Usage 
+
+2016-08-08 17:48:02,635 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage 
+
+2016-08-08 17:48:58,885 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:48:58,886 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 17:48:58,891 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 18:23:04,843 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 18:23:04,909 - devpinoyLogger -INFO - Verifying HelpCode
+2016-08-08 18:23:04,910 - devpinoyLogger -INFO - Expected Response has been captured for Verifying help code 
+
+2016-08-08 18:24:16,579 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 18:24:16,580 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 18:24:16,591 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 18:24:16,631 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 18:24:16,641 - devpinoyLogger -INFO - Verifying Due Amount
+2016-08-08 18:24:16,642 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Due Amount 
+
+2016-08-08 18:25:13,174 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 18:25:13,178 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 18:25:13,239 - devpinoyLogger -INFO - =====================================================Info============================================== 
+
+2016-08-08 18:25:13,241 - devpinoyLogger -INFO - Verifying Data Usage 
+
+2016-08-08 18:25:13,243 - devpinoyLogger -INFO - Expected Response has been captured for Verifying Current Data Usage 
+
+2016-08-08 18:26:10,091 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 18:26:10,093 - devpinoyLogger -INFO - =====================================================Info==============================================
+2016-08-08 18:26:10,100 - devpinoyLogger -INFO - =====================================================Info==============================================
