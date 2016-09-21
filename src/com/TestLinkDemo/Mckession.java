@@ -5,13 +5,12 @@ import org.testng.annotations.Test;
 import org.testng.annotations.BeforeMethod;
 	import org.openqa.selenium.By;
 	import org.openqa.selenium.WebDriver;
-	import org.openqa.selenium.WebDriverBackedSelenium;
 	import org.openqa.selenium.WebElement;
     import org.openqa.selenium.chrome.ChromeDriver;
     import org.openqa.selenium.firefox.FirefoxDriver;
 	import com.thoughtworks.selenium.SeleneseTestBase;
 	import com.thoughtworks.selenium.Selenium;
-	import testlink.api.java.client.TestLinkAPIResults;
+import com.thoughtworks.selenium.webdriven.WebDriverBackedSelenium;
 
 
 	public class Mckession extends SeleneseTestBase implements IConstants {
